@@ -23,3 +23,23 @@ class GroupDemo
         }
     }
 }
+
+/*** Output ***/
+/*
+
+    Web sites grouped by .com
+        hsNameA.com
+        hsNameB.com
+
+    Web sites grouped by .net
+        hsNameC.net
+        hsNameD.net
+        hsNameE.net
+
+    Web sites grouped by .org
+        hsNameF.org
+        hsNameG.orf
+    
+    ..............
+
+*/
