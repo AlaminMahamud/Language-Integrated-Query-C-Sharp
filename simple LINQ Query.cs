@@ -22,3 +22,8 @@ class SimpQuery
 		Console.WriteLine();
 	}
 }
+
+
+// The Program Produces the following Output:
+// The positive values in nums: 1 3 5
+
